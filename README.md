@@ -1,5 +1,7 @@
 # AI-Powered Medical Chatbot
 
+<img width="749" alt="Image" src="https://github.com/user-attachments/assets/9bf5d200-a6aa-4d43-ae2d-9cb46de7d53f" />
+
 ## Overview
 
 This project showcases an AI-powered medical chatbot designed to assist users in understanding their symptoms. By leveraging machine learning and natural language processing (NLP), the chatbot aims to bridge the gap between patients and medical information, potentially reducing reliance on unreliable online sources and encouraging timely medical consultations.
